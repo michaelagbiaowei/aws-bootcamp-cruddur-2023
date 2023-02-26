@@ -9,8 +9,7 @@ Created a new user and generated AWS credentials for the user by:
 - Clicked on Security Credentials and generated Access key.
 - Then used the AWS CLI Access.
 - Downloaded the CSV with the credentials.
-
-Created both a Billing Alert and AWS Budget.
+- Created both a Billing Alert and AWS Budget.
 
 
 Then using Lucid charts created Cruddur Conceptual Diagram and Cruddur Logical Diagram as shown below:
